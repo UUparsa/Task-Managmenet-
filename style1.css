@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: #f4f6f8;
+  padding: 40px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: lightcyan;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  color: orange;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input, textarea, select, button {
+  padding: 8px;
+  font-size: 14px;
+}
+
+button {
+  background:turquoise;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #4338ca;
+}
+
+.task {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+.task-actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
+}
+
+.task-actions button {
+  background: #ef4444;
+}
+
+.task-actions select {
+  margin-right: 10px;
+}
+
+
