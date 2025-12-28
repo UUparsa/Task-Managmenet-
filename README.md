@@ -1,5 +1,6 @@
 # Task-Managmenet-
 This  project is made for Soft_Skill lesson 
+
 برنامه مدیریت کار ها (Task Manager)
 
 این پروژه یک برنامه برای مدیریت تسک است که با استفاده از HTML، CSS و JavaScript پیاده‌سازی شده است.  
@@ -21,14 +22,16 @@ This  project is made for Soft_Skill lesson
 - حذف تسک با پیام تأیید (Confirmation)
 - رابط کاربری ساده و قابل استفاده
 
- تکنولوژی‌های استفاده‌شده:
+
+ تکنولوژی های بکار برده شده:
+
 
  HTML
 CSS
 JvavScript
  Trello
- GitHub (برای کنترل نسخه و همکاری)
-
+ GitHub (برای کنترل نسخه و همکاری
+ 
  نحوه اجرای پروژه
 
 1. مخزن پروژه را Clone کنید:
