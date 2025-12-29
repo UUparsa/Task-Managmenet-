@@ -28,7 +28,7 @@ This  project is made for Soft_Skill lesson
 
  HTML
 CSS
-JvavScript
+JavaScript
  Trello
  GitHub (برای کنترل نسخه و همکاری
  
